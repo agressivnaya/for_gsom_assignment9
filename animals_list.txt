@@ -1,0 +1,7 @@
+Dumbo, elephant
+Kaa, python
+Garfield, cat
+Simba, lion
+Stuart, mouse
+Nemo, fish
+Gena, crocodile
